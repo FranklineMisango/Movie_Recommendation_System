@@ -8,7 +8,7 @@
 
 ![image](1.png)
 
-This Natural Language Processing Naives Bayes model curates movie recommendations for its users. Movie details are fetched usinf an API provided by TMDB. I then fetched the id of the movie in the API using webscraping to get user reviews given by the user in the IMDB site using 'beautiful soup' and chose to do a sentiment analysis on them. I am still learning on how I can apply Hugging Face BART Models to improve the analysis
+This Natural Language Processing Naives Bayes model curates movie recommendations for its users. Movie details are fetched using an API provided by TMDB. I then fetched the id of the movie in the API using webscraping to get user reviews given by the user in the IMDB site using 'beautiful soup' and chose to do a sentiment analysis on them. I am still learning on how I can apply Hugging Face Pretrained FaceBook BART Model to improve the analysis of the Application
 
 ## How to get the API key?
 
